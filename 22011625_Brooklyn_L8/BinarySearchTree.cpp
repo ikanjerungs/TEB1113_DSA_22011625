@@ -4,7 +4,7 @@ id: 22011625
 name: Brooklyn Neo Allexius
 contact: +60 19-7077 715
 email: brooklyn_22011625@utp.edu.my
-Lab: 7
+Lab: 8
 */
 
 #include <iostream>
